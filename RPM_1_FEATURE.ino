@@ -136,3 +136,5 @@ void Pulse_Event()
     PeriodSum = PeriodSum + PeriodBetweenPulses;
   }
 } // SEMOGA SUKSES............................
+
+// Ganbatte
