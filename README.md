@@ -2,7 +2,7 @@
 
 
 ## Schematic
-![alt text](https://github.com/BintangLaut69/RPM-LED/blob/main/RPM%20LED%20SPEEDOMETER.jpg?raw=true)
+![alt text](?raw=true)
 
 
 ## Video
