@@ -2,7 +2,7 @@
 
 
 ## Schematic
-![alt text](?raw=true)
+![alt text](https://github.com/BintangLaut69/RPM-LED/blob/main/RPM%20LED.jpg?raw=true)
 
 
 ## Video
