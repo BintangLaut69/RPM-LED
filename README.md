@@ -9,4 +9,5 @@
   ![alt text](https://github.com/BintangLaut69/RPM-LED/blob/main/rpm%20led%20arduino.jpg?raw=true)
 
 ## Video
-[Tonton disini](https://youtu.be/s5bDtqnmuxU)
+
+https://github.com/user-attachments/assets/83bcd4d5-9c3c-4308-b59b-2f56fc7ba350
