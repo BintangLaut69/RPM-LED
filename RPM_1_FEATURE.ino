@@ -7,7 +7,7 @@
 //                                        UNTUK MOTOR KARBU)
 //   UNTUK FEATURE SHIFT LIGHT DAN LAIN-LAIN BELUM DIMASUK KAN KE PROGRAM INI
 //   UNTUK KALKULASI RPM DIAMBIL DARI CHANEL YOUTUBE "InterlinkKnight" VIDEO  https://www.youtube.com/watch?v=u2uJMJWsfsg
-//   JANGAN LUPA SUBSCRIBE CHANNEL YOUTUBE KAMI https://youtu.be/gY7U8oPt_HA
+
 
 
 
